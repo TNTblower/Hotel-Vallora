@@ -1,0 +1,45 @@
+body {
+	background-color: #d2b48c;
+	margin-right: 20%;
+	margin-left: 20%;
+	font-family: 'Arial';
+	border: 1px dotted gray;
+	padding: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 10px black;
+	border-radius: 20px;
+}
+p {
+	color: #003366;
+	font-size: 12pt;
+}
+h1 {
+	color: #339966;
+	font-size: 20pt;
+	border-bottom: solid 1px #339966;
+}
+h2 {
+	color: #339966;
+	font-size: 16pt;
+}
+table {
+	background-image: url(bilder/knitter1.jpg);
+	box-shadow: 0px 0px 10px black;
+}
+th {
+	font-size: 14pt;
+}
+td {
+	padding-left: 10px;
+}
+li {
+	list-style-image: url(bilder/fisch.gif);
+}
+img {
+	border-radius: 15px;
+	box-shadow: 0px 0px 10px black;
+}
+a:hover {
+	background-color: yellow;
+	border-radius: 20px;
+	padding: 5px;
+}
